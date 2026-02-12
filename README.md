@@ -69,3 +69,6 @@ The `gold_customer360` table includes the following key fields:
 * **Engagement Info**: `ticket_id`, `issue_type`, `page_viewed`, `device_type`.
 
 ---
+## Final PowerBi Dashboard
+
+<img width="741" height="421" alt="image" src="https://github.com/user-attachments/assets/22f7b91a-beeb-4ddd-b22b-9094dc0b2c58" />
